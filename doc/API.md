@@ -111,7 +111,7 @@ which contains the records for [strain_id,strain,value,s.e.] for dataset 10001.
 Or from the dataset name
 
 ```js
-curl "http://test-gn2.genenetwork.org/api_pre1/trait/CBLDT2.json"
+curl "http://test-gn2.genenetwork.org/api_pre1/trait/CBLWT2.json"
 
 (nyi)
 ```
